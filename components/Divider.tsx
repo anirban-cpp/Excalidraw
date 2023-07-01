@@ -1,4 +1,3 @@
-import { Theme } from '@/types'
 import React from 'react'
 
 const Divider = () => {
